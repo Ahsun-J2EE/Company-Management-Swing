@@ -1,0 +1,2 @@
+company.management.StoreTableView$1
+company.management.StoreTableView
